@@ -1,0 +1,9 @@
++ 트랜잭션
+- 입력 N개
+- 출력 N개
+
+
+
+https://brunch.co.kr/@chunja07/41
+https://cafe.naver.com/blockchaindev/356
+https://blog.naver.com/PostView.nhn?blogId=since201109&logNo=221350376167&categoryNo=9&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
